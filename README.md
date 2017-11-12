@@ -47,6 +47,7 @@ $ sigalt monit BCHIDR
 
 In Action
 ----------------
+![In-Action](https://user-images.githubusercontent.com/5761975/32696495-188b140e-c7ac-11e7-9ea3-8050f6d7c529.png)
 
 License
 ----
