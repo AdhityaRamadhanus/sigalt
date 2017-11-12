@@ -1,0 +1,21 @@
+{
+  "name": "sigalt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.0",
+    "cli-table": "^0.3.1",
+    "commander": "^2.11.0",
+    "format-currency": "^1.0.0",
+    "lodash": "^4.17.4",
+    "log-update": "^2.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.11.0"
+  }
+}
